@@ -3,8 +3,8 @@
 
 /*
  * File: shell.h
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Tesfay Teshome
+ *       Tewodros Kifle
  */
 
 #include <fcntl.h>
