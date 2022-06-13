@@ -17,6 +17,7 @@
 #include <errno.h>
 #include <stdio.h>
 
+#define GLOBALVAR 1024
 #define END_OF_FILE -2
 #define EXIT -3
 
